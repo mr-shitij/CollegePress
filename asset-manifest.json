@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CollegePress/static/css/main.6c507b48.css",
-    "main.js": "/CollegePress/static/js/main.e4df1036.js",
-    "index.html": "/CollegePress/index.html",
-    "main.6c507b48.css.map": "/CollegePress/static/css/main.6c507b48.css.map",
-    "main.e4df1036.js.map": "/CollegePress/static/js/main.e4df1036.js.map"
+    "main.css": "/static/css/main.6c507b48.css",
+    "main.js": "/static/js/main.e3518c26.js",
+    "index.html": "/index.html",
+    "main.6c507b48.css.map": "/static/css/main.6c507b48.css.map",
+    "main.e3518c26.js.map": "/static/js/main.e3518c26.js.map"
   },
   "entrypoints": [
     "static/css/main.6c507b48.css",
-    "static/js/main.e4df1036.js"
+    "static/js/main.e3518c26.js"
   ]
 }
