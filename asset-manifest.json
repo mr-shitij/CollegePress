@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mr-shitij/CollegePress/static/css/main.6c507b48.css",
+    "main.js": "/mr-shitij/CollegePress/static/js/main.8aa9b295.js",
+    "index.html": "/mr-shitij/CollegePress/index.html",
+    "main.6c507b48.css.map": "/mr-shitij/CollegePress/static/css/main.6c507b48.css.map",
+    "main.8aa9b295.js.map": "/mr-shitij/CollegePress/static/js/main.8aa9b295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c507b48.css",
+    "static/js/main.8aa9b295.js"
+  ]
+}
