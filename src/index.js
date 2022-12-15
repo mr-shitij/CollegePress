@@ -9,7 +9,7 @@ import DreamEditionPage from './views/dream-edition-page'
 
 const App = () => {
   return (
-    <Router basename="/CollegePress">
+    <Router>
       <div>
         <Route exact component={LandingPage} path="/" />
         <Route exact component={COEPEditionPage} path="/c-o-e-p-edition-page" />
